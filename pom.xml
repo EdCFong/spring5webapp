@@ -12,7 +12,7 @@
 	<artifactId>spring5webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5webapp</name>
-	<description>Simple web appication</description>
+	<description>Simple web application</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
